@@ -7,6 +7,7 @@ The VIN Automation Project is designed to enhance the vehicle insurance underwri
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
+- [Required Python Packages](#required-python-packages)
 - [Installation](#installation)
 - [Running the Automation](#running-the-automation)
 - [Troubleshooting](#troubleshooting)
@@ -24,6 +25,13 @@ Before you begin, ensure you have the following installed:
   - [Edge and Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
   - [Firefox and Geckodriver](https://github.com/mozilla/geckodriver/releases)
   - [Safari and Safari WebDriver](https://webkit.org/blog/6900/webdriver-support-in-safari-10/)
+
+  ### Required Python Packages
+
+Ensure these Python packages are installed:
+
+- `selenium`: For web browser automation.
+- `openpyxl`: For Excel file operations.
 
 ### Installation
 1. Download the project zip file, `Brown-Riding-VIN-Automation.zip`.
